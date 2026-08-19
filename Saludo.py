@@ -1,4 +1,4 @@
-saludo = 'Hola Luquitas'
+saludo = 'Hola Fede'
 print(saludo)
 n=0
 while True:
